@@ -32,7 +32,7 @@ namespace ExcepcionesExtensiones
             } 
             finally
             {
-                Console.WriteLine("No pudimos hacer la division =(... Alguien tiene que volver a primaria ¬¬ \n \n");
+                Console.WriteLine("Lo intentamos... \n \n");
             }
 
            
